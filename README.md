@@ -50,7 +50,6 @@ This project focuses on forecasting daily product family sales for 54 retail sto
 - Strong weekly seasonality observed (especially weekends and paydays)
 - Promotions and holidays significantly affected short-term demand
 - Oil price acted as a macroeconomic proxy influencing sales
-
 > Forecast performance was improved with targeted lag/rolling features and holiday-aware modeling.
 
 ---
