@@ -1,5 +1,4 @@
-# Kaggle_StoreSales_project
-# Ecuador Store Sales Forecasting Project
+# Ecuador Store Sales Forecasting Project (Data form Kaggle)
 
 This project focuses on forecasting daily product family sales for 54 retail stores in Ecuador. The dataset includes sales history, promotions, oil prices, holidays, and transactional data. The goal is to accurately predict future sales from August 16 to 31, 2017.
 
